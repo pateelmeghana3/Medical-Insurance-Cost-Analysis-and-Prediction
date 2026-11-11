@@ -1,0 +1,8 @@
+Test,H0,Statistic,p_value,Effect size,Decision (alpha=0.05)
+Welch t-test,Mean charges of smokers = non-smokers,32.742,6.26e-103,Cohen's d = 3.16,Reject H0
+Welch t-test,Mean charges of males = females,2.128,0.0336,Cohen's d = 0.12,Reject H0
+One-way ANOVA,Mean charges equal across 4 regions,2.926,0.0328,eta^2 = 0.007,Reject H0
+Chi-square independence,Smoker status independent of sex,7.469,0.0063,Cramer's V = 0.075,Reject H0
+Pearson correlation,No linear correlation between BMI and charges,0.198,2.47e-13,r = 0.20,Reject H0
+Shapiro-Wilk normality,Charges are normally distributed,0.815,1.20e-36,-,Reject H0
+Mann-Whitney U (robustness),Charge distributions of smokers = non-smokers,283859.0,5.75e-130,-,Reject H0

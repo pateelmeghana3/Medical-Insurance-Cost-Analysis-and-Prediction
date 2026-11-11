@@ -1,0 +1,4 @@
+Model,R2 (test),Adj R2 (test),RMSE,MAE,CV R2 (5-fold mean)
+Linear Regression (baseline),0.8205,0.8164,5086.9,3592.8,0.7256
+Linear Regression (engineered features),0.8996,0.8961,3804.0,2426.1,0.8281
+Random Forest,0.919,0.9162,3416.9,2140.2,0.8407

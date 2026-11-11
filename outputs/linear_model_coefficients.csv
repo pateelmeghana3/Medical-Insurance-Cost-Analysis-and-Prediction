@@ -1,0 +1,12 @@
+feature,coefficient
+cat__smoker_yes,-22405.104438952178
+num__smoker_x_bmi,19107.823129139255
+num__age_sq,4017.072862347763
+num__bmi_obese,1527.0050201957818
+cat__region_southwest,-1332.0523609506583
+num__bmi,-1179.718820930962
+cat__region_southeast,-1062.0831859574334
+num__children,888.07792747412
+cat__sex_male,-718.2768414445088
+cat__region_northwest,-612.2480362805534
+num__age,-367.60502070407006
